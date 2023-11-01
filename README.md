@@ -10,6 +10,10 @@
 
 
 
+https://github.com/SHANGKANG/AWB-tools/assets/45681366/59a5f443-ffb3-4728-b511-fdc2219c755b
+
+
+
 ## 软件架构
 
 流程：RAW图像读取 --> 预处理 --> 场景检测 ---> AWB( GT 评估) --> CCM --> 保存
